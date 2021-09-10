@@ -1,0 +1,8 @@
+myfirstscenario
+fef
+13
+0
+ukazatel::1
+
+startScene::4
+ukazatel::1
